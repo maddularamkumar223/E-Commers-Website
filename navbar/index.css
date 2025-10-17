@@ -6,12 +6,13 @@
 .navbar {
   height: 70px;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 0.5fr 2.5fr 1fr;
 }
-section {
-  border-bottom:1px solid lightslategray;
+.navbar section {
+  /* border: solid; */
+  border-bottom: 1px solid lightslategray;
 }
-ul {
+.navbar ul {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -19,13 +20,13 @@ ul {
   height: 100%;
   list-style: none;
 }
-a{
-    text-decoration: none;
-    font-size: 20px;
-    color: black;
+.navbar a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
 }
-a:hover{
-    color: orange;
-    border-bottom: 5px solid orange;
-    padding-bottom: 20px;
+.navbar a:hover {
+  color: orange;
+  border-bottom: 5px solid orange;
+  padding-bottom: 20px;
 }
