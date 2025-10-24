@@ -1,0 +1,68 @@
+Project
+
+E-commers
+Categories
+	1. Electronics
+	2. Books
+	3. Clothes
+	4. Beauty
+	5. Home Appliances
+Features
+	
+	1. Add products by frontend only
+		1. brand Name
+		2. description
+		3. productName
+		4. price
+		5. rating
+		6. image
+		7. category
+	2. Add to cart
+	3. Athuntation
+	4. live search
+	5. Admin Panel
+	6. User panel
+	7. Wishlist2
+	8. Total price
+	9. remove from cart
+	10. [review] 
+	11. ratings
+	12. [Return and order]
+Pages
+
+	1. Register page
+		name
+		username
+		password
+		confirm password
+		contact no
+		bod
+		Address
+		gender
+		nationlity
+		
+	2. Login Page
+		
+		username
+		password
+		forgotpassword
+
+	3. Home Page
+	4. Individual Product Page
+	5. Cart Page
+	6. Wishlist page
+	7. [History of orders]
+	8. [Support Page]
+
+
+
+
+
+
+
+
+
+
+
+
+

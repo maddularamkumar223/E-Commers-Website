@@ -18,6 +18,7 @@ form.addEventListener("submit", (e) => {
     contact: formData.get("contact"),
     cart: [],
     wishlist: [],
+    role:'user'
   };
   addUser(user);
 });
