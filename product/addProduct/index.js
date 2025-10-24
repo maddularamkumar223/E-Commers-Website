@@ -19,7 +19,7 @@ form.addEventListener("submit", (e) => {
       price: price,
       rating: rating,
       image: imageUrl,
-      category: category,
+      category: category.toLocaleLowerCase(),
     };
     addProduct(product);
   };
